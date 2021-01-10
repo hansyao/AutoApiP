@@ -3,7 +3,7 @@ AutoApi系列：~~AutoApi~~、AutoApiSecret、~~AutoApiSR、AutoApiS~~、AutoApi
 
 ## 置顶 ##
 * **不保证续期**
-* 设置了**周六日(UTC时间)不启动**自动调用,1-5每6小时自动启动一次，修改看教程
+* 设置了**周六日(UTC时间)不启动**自动调用,1-5每5小时自动启动一次，修改看教程
 
 ### 跳转
 * AutoApiSecret：https://github.com/wangziyingwen/AutoApiSecret
